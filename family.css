@@ -1,0 +1,27 @@
+/*family*/
+body
+{
+    background-image: url("img/flowerbackground.png");
+    width: 1800px;
+    height: 1000px;
+}
+#Topbar
+{
+    background-color: deepskyblue;
+}
+body, html {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#myfamily
+{
+    background-color: #ffd9ff;
+}
+#Family
+{
+    background-image: linear-gradient(white, plum, powderblue);
+}

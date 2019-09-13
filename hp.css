@@ -1,0 +1,40 @@
+/* ya yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet*/
+body
+{
+    background-image: linear-gradient(#c5b9fa, #84d8ff);
+}
+#title {
+    font-family: "Calibri Light", cursive;
+}
+/* got help from, https://www.w3.org/Style/Examples/007/fonts.en.html*/
+#SecondTitle {
+    font-family: "Comic Sans MS", serif ;
+}
+#table {
+    font-family: "Dubai Medium", sans-serif;
+}
+.btn {
+    border: none;
+    background-color: deepskyblue;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+/* On mouse-over */
+.btn:hover {background: #8feeb5;}
+
+.More {color: #000000;}
+
+#Hobbies
+{
+    background-blend-mode: color-dodge;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 3%;
+    height: 3%;
+}
+* {box-sizing:border-box}
